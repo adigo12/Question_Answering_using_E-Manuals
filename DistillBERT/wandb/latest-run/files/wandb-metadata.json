@@ -1,0 +1,71 @@
+{
+    "os": "Linux-5.4.0-84-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2022-12-09T14:31:05.769342",
+    "startedAt": "2022-12-09T14:31:05.721028",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/aditya/NLP/krish_nayak/QA.py",
+    "codePath": "QA.py",
+    "host": "aditya",
+    "username": "aditya",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 956.249625,
+        "min": 800.0,
+        "max": 4100.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 927.388,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 967.001,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 936.281,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 904.01,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 918.597,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 1136.895,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 942.517,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 917.308,
+            "min": 800.0,
+            "max": 4100.0
+        }
+    ],
+    "disk": {
+        "total": 34.65087890625,
+        "used": 21.704631805419922
+    },
+    "memory": {
+        "total": 7.630184173583984
+    }
+}
